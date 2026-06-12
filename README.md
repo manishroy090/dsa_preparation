@@ -1,5 +1,13 @@
 
 //Phase One 
+
+String Questions
+- Palindrome String
+- Reverse a String
+- Reverse words in a string
+- Check if Strings Are Rotations of Each Other
+- First non-repeating character of given string
+
 Arrays Questions
 - Two Sum
 - Best Time to Buy and Sell Stock
