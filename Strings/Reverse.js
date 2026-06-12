@@ -1,14 +1,14 @@
 function reverseString(strVal){
 
-    let left =0;
+    let left = 0;
 
     let right = strVal.length-1;
 
-    let result = []
+    let result='';
 
-    while(left < right){
+    while(left <=right){
 
-       result.push(strVal[right]);
+       result +=strVal[right];
 
        right--;
 
