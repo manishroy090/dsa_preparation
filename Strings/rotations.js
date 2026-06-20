@@ -1,3 +1,5 @@
+
+//Naive Aproch
 function areRotations(s1, s2) {
   let n = s1.length;
 
